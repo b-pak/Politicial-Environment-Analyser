@@ -1,2 +1,2 @@
 # Politicial-Environment-Analyser
-Tools for intricate analysis of domestic and international political landscapes.
+Tools for analysing domestic and international political landscapes.
